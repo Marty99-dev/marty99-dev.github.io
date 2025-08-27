@@ -5,8 +5,8 @@ author: Mathias Marty
 skin: Daylight
 
 plainwhite:
-  name: Adam Denisov
-  tagline: Mathias Marty
+  name: Mathias Marty
+  tagline: TODO
   date_format: "%b %-d, %Y"
   navigation:
     - title: Resume
