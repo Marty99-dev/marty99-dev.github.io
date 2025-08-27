@@ -1,8 +1,15 @@
 title: Mathias Marty
 email: mathiasmarty99@gmail.com
 description: Recent EPFL Graduate in Cybersecurity
+author: Mathias Marty
+skin: Daylight
+
+plainwhite:
+  name: Adam Denisov
+  tagline: Developer. Designer
+  date_format: "%b %-d, %Y"
 
 plugins:
   - jekyll-remote-theme
-
-remote_theme: ngzhio/jekyll-theme-hamilton
+  
+remote_theme: samarsault/plainwhite-jekyll
