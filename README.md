@@ -16,6 +16,23 @@ I am currently seeking **research-oriented job and PhD opportunities** and am ea
 
 ## Publications
 
+- **Gamma Special Soundness for Linear Time IOPs**  
+  Jonathan Bootle, Alessandro Chiesa & Mathias Marty  
+  *(under review) TCC 2025 – Theory of Cryptography Conference*
+
+- **Implicit Curves: From Discrete Extraction to Applied Formalism** 
+  Mathias Marty, Antoine Lestrade, Artan Sadiku, Christophe Muller, Joep Neijt, Yann Voumard & Stéphane Gobron  
+  *ICGG 2022 – Proceedings of the 20th International Conference on Geometry and Graphics*
+
+- **Real-Time Renderings of Multidimensional Massive DataCubes on Jupyter Notebook**  
+  Antoine Lestrade, Mathias Marty, Artan Sadiku, Christophe Muller, Joep Neijt, Yann Voumard & Stéphane Gobron  
+  *ICGG 2022 – Proceedings of the 20th International Conference on Geometry and Graphics*
+
+- **Earth Observation: Datacubes Multi-Visualization Toolbox**  
+  Christophe Muller, Antoine Lestrade, Mathias Marty, Artan Sadiku, Yann Voumard & Stéphane Gobron  
+  *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*
+
+
 
 ## Contact information
 
