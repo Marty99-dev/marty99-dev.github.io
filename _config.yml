@@ -10,7 +10,7 @@ plainwhite:
   date_format: "%b %-d, %Y"
   navigation:
     - title: Resume
-      url: "/resume"
+      url: "/assets/CV.pdf"
   portfolio_image:  "assets/portfolio.png"
 
 
