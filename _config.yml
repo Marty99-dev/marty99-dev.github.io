@@ -11,6 +11,8 @@ plainwhite:
   navigation:
     - title: Resume
       url: "/resume"
+   portfolio_image:  "assets/portfolio.png"
+
 
 plugins:
   - jekyll-remote-theme
