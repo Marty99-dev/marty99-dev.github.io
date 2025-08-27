@@ -7,11 +7,11 @@ skin: Daylight
 plainwhite:
   name: Mathias Marty
   tagline: |
-    First Line. 
+    EPFL/ETHZ
   
-    Second Line. 
+    Cybersecurity 
   
-    Third Line.
+    Graduate
   date_format: "%b %-d, %Y"
   navigation:
     - title: Resume
