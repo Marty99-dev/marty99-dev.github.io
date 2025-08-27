@@ -4,7 +4,7 @@ I am a highly motivated graduate with a strong interest in cybersecurity, partic
 
 In my free time, I collaborate with 
  - Dr. Jonathan Bootle and Prof. Alessandro Chiesa on proving the security of linear-time interactive oracle proofs; and
- - with Prof. Eylon Yogev on establishing lower bounds for digital signatures.  
+ - Prof. Eylon Yogev on establishing lower bounds for digital signatures.  
 
 I am currently seeking **research-oriented job and PhD opportunities** and am eager to apply my skills to challenging projects.
 
