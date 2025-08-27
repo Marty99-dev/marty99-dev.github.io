@@ -1,4 +1,8 @@
-theme: hamilton
 title: Mathias Marty
 email: mathiasmarty99@gmail.com
 description: Recent EPFL Graduate in Cybersecurity
+
+plugins:
+  - jekyll-remote-theme
+
+remote_theme: ngzhio/jekyll-theme-hamilton
