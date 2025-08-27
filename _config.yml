@@ -1,12 +1,12 @@
 title: Mathias Marty
 email: mathiasmarty99@gmail.com
-description: Recent EPFL Graduate in Cybersecurity
+description: Recent EPFL/ETHZ Graduate in Cybersecurity
 author: Mathias Marty
 skin: Daylight
 
 plainwhite:
   name: Mathias Marty
-  tagline: TODO
+  tagline: EPFL/ETHZ Cybersecurity Graduate
   date_format: "%b %-d, %Y"
   navigation:
     - title: Resume
