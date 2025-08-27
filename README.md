@@ -1,5 +1,3 @@
-> **EPFL/ETHZ Cybersecurity Graduate**
-
 # About Me
 
 I am a highly motivated graduate with a strong interest in cybersecurity, particularly cryptography and theoretical computer science. I recently completed a **Master’s degree in Cybersecurity at EPFL and ETHZ**, where I specialized in theoretical and mathematically oriented courses. Prior to that, I earned my **Bachelor’s degree from a University of Applied Sciences**, where I focused on practical programming, systems, and project-based learning.
