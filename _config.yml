@@ -6,8 +6,11 @@ skin: Daylight
 
 plainwhite:
   name: Adam Denisov
-  tagline: Developer. Designer
+  tagline: Mathias Marty
   date_format: "%b %-d, %Y"
+  navigation:
+    - title: Resume
+      url: "/resume"
 
 plugins:
   - jekyll-remote-theme
