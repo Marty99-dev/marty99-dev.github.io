@@ -14,7 +14,7 @@ plainwhite:
     Graduate
   date_format: "%b %-d, %Y"
   navigation:
-    - title: Resume
+    - title: My Resume
       url: "/assets/CV.pdf"
   portfolio_image:  "assets/portfolio.png"
 
