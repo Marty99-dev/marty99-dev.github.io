@@ -14,7 +14,7 @@ I am currently seeking **research-oriented job and PhD opportunities** and am ea
 ## University's research projects
  - Master project @ EPFL: *On State-Restoration Knowledge Soundness from Special Soundness* ([pdf](assets/srs-from-special-soundness.pdf))
  - Semester project @ EPFL: *Code-based cryptography over the Lee metric* ([pdf](assets/code_based_cryptography_over_the_lee_metric.pdf))
- - Bachelor project @ HES-SO: *DataCube : Courbes implicites* (french only [pdf](assets/datacube_courbes_implicit.pdf))
+ - Bachelor project @ HES-SO: *DataCube : Courbes implicites* (french only [pdf](assets/datacube_courbes_implicites.pdf))
 
 ## Publications
 
