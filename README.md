@@ -18,9 +18,13 @@ I am currently seeking **research-oriented job and PhD opportunities** and am ea
 
 ## Publications
 
+- **Lower bound for the size of hash based signature**
+  Iftach Haitner, Mathias Marty, and Eylon Yogev
+  *(Manuscript in preparation)*
+
 - **Gamma Special Soundness for Linear Time IOPs**
   Jonathan Bootle, Alessandro Chiesa & Mathias Marty  
-  *(under review) TCC 2025 – Theory of Cryptography Conference*
+  *(under review) Crypto 2026*
 
 - [**Implicit Curves: From Discrete Extraction to Applied Formalism**](https://doi.org/10.1007/978-3-031-13588-0_62)
   Mathias Marty, Antoine Lestrade, Artan Sadiku, Christophe Muller, Joep Neijt, Yann Voumard & Stéphane Gobron  
