@@ -19,7 +19,7 @@ I am currently seeking **research-oriented job and PhD opportunities** and am ea
 ## Publications
 
 - **Lower bound for the size of hash based signature**
-  Iftach Haitner, Mathias Marty, and Eylon Yogev
+  Iftach Haitner, Mathias Marty, and Eylon Yogev  
   *(Manuscript in preparation)*
 
 - **Gamma Special Soundness for Linear Time IOPs**
