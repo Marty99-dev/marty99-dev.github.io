@@ -22,7 +22,7 @@ I am currently seeking **research-oriented job and PhD opportunities** and am ea
   Iftach Haitner, Mathias Marty, and Eylon Yogev  
   *(Manuscript in preparation)*
 
-- **Gamma Special Soundness for Linear Time IOPs**
+- **Round-by-Round Knowledge Soundness for Linear-Time IOPs**
   Jonathan Bootle, Alessandro Chiesa & Mathias Marty  
   *(under review) Crypto 2026*
 
