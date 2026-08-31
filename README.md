@@ -17,7 +17,7 @@ I collaborate with:
 ### Cryptography & Theoretical Computer Science
 
 - **Round-by-Round Knowledge Soundness for Linear-Time IOPs**
-  Jonathan Bootle, Alessandro Chiesa & **Mathias Marty**
+  Jonathan Bootle, Alessandro Chiesa & Mathias Marty
   *(under review) IACR Communications in Cryptology (CiC) 2026*
 
 - **Lower bound for the size of hash based signatures**
@@ -27,7 +27,7 @@ I collaborate with:
 ### Combinatorics
 
 - [**Counting Successor-Closed Subsets of Functional Digraphs**](https://arxiv.org/abs/2608.27145)
-  **Mathias Marty**
+  Mathias Marty
   *arXiv preprint, 2026*
 
 ### Earlier Work (Bachelor's research)
