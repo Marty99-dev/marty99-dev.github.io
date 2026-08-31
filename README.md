@@ -52,8 +52,7 @@ I collaborate with:
 
 ## Contact information
 
-- **Email:** [mathiasmarty99@gmail.com](mailto:mathiasmarty99@gmail.com)
+- **Email:** [mathias.marty@epfl.ch](mailto:mathias.marty@epfl.ch)
 - **LinkedIn:** [linkedin.com/in/mathias-marty-ch/](https://www.linkedin.com/in/mathias-marty-ch/)
 - **GitHub:** [github.com/Marty99-dev](https://github.com/Marty99-dev)
-- **CV:** [add link]
-- **Google Scholar:** [add link]
+- **CV:** [cv.pdf](assets/CV.pdf)
