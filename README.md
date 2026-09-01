@@ -26,7 +26,7 @@ I collaborate with:
 
 ### Combinatorics
 
-- [**Counting Successor-Closed Subsets of Functional Digraphs**](https://arxiv.org/abs/2608.27145)
+- [**Counting Successor-Closed Subsets of Functional Digraphs**](https://arxiv.org/abs/2608.27145v2)
   Mathias Marty
   *arXiv preprint, 2026*
 
