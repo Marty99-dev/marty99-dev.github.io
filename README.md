@@ -2,13 +2,14 @@
 
 I am a highly motivated graduate with a strong interest in cybersecurity, particularly cryptography and theoretical computer science. I recently completed a **Master's degree in Cybersecurity at EPFL and ETHZ**, where I specialized in theoretical and mathematically oriented courses. Before that, I earned my **Bachelor's degree from a University of Applied Sciences**, where I focused on practical programming, systems, and project-based learning.
 
-**Research interests:** zero-knowledge proofs, interactive oracle proofs, lower bounds, code-based cryptography.
+**Research interests:** witness encryption, interactive oracle proofs, lower bounds.
 
-I am currently a **PhD student in Computer Science at EPFL**, supported by the **EPFL Fellowship**, and I'm excited to keep pushing on theoretical and mathematically-grounded questions in cryptography.
+I am currently a **PhD student in Computer Science at EPFL**, supported by the **EPFL Fellowship**, and I am working on witness encryption under the supervision of Professor Serge Vaudenay.
 
 ## Current Research
 
 I collaborate with:
+- Prof. Serge Vaudenay on witness encryption
 - Dr. Jonathan Bootle and Prof. Alessandro Chiesa on proving the security of linear-time interactive oracle proofs
 - Prof. Eylon Yogev on establishing lower bounds for digital signatures
 
@@ -18,11 +19,10 @@ I collaborate with:
 
 - **Round-by-Round Knowledge Soundness for Linear-Time IOPs**
   Jonathan Bootle, Alessandro Chiesa & Mathias Marty
-  *(under review) IACR Communications in Cryptology (CiC) 2026*
+  *IACR Communications in Cryptology (CiC) 2026*
 
-- **Lower bound for the size of hash based signatures**
+- [**Lower bound for the size of hash based signatures**](https://eprint.iacr.org/2026/2237)
   Alon Chayet, Iftach Haitner, Mathias Marty, and Eylon Yogev
-  *(Manuscript in preparation)*
 
 ### Combinatorics
 
