@@ -17,7 +17,7 @@ I collaborate with:
 
 ### Cryptography & Theoretical Computer Science
 
-- **Round-by-Round Knowledge Soundness for Linear-Time IOPs**
+- [**Round-by-Round Knowledge Soundness for Linear-Time IOPs**](https://cic.iacr.org/p/3/3/11)
   Jonathan Bootle, Alessandro Chiesa & Mathias Marty
   *IACR Communications in Cryptology (CiC) 2026*
 
